@@ -1,0 +1,114 @@
+{
+  "INTJ": [
+    "🧠 Systems Architect",
+    "📊 Data Analyst",
+    "🔬 Cognitive Science Researcher",
+    "🗂️ Complex Project Manager",
+    "📈 Strategic Consultant"
+  ],
+  "INTP": [
+    "🔍 Researcher",
+    "💻 Senior Programmer",
+    "📊 Data Scientist",
+    "🧩 Complex Problem Analyst",
+    "⚙️ Algorithm Designer"
+  ],
+  "ENTJ": [
+    "🏢 Chief Executive Officer (CEO)",
+    "👨‍💼 Technical Team Leader",
+    "📈 Financial Analyst",
+    "🧠 Business Consultant",
+    "📊 Strategic Development Manager"
+  ],
+  "ENTP": [
+    "🚀 Creative Entrepreneur",
+    "💡 Innovation Manager",
+    "📣 Marketing Strategist",
+    "🧠 Branding Consultant",
+    "🛠️ Inventor or Innovator"
+  ],
+  "INFJ": [
+    "🧘‍♂️ Therapist",
+    "🗣️ Personal Development Consultant",
+    "📝 Writer or Poet",
+    "🎭 Cultural Strategist",
+    "🎤 Inspirational Speaker"
+  ],
+  "INFP": [
+    "📝 Creative Writer",
+    "🎨 Artist or Designer",
+    "🧑‍🏫 Personal Consultant",
+    "🌍 Social Activist",
+    "🎬 Screenwriter"
+  ],
+  "ENFJ": [
+    "🎤 Motivational Speaker",
+    "🤝 Human Resources Manager",
+    "🧠 Psychologist or Personal Coach",
+    "🏫 Inspirational Teacher",
+    "🎯 Personal Development Coach"
+  ],
+  "ENFP": [
+    "📢Creative Marketer",
+    "🎭 Presenter or Actor",
+    "✈️ Travel Writer",
+    "🕊️ Social Activist",
+    "📱 Advertising Campaign Manager"
+  ],
+  "ISTJ": [
+    "🎖️ Military Officer",
+    "📋 Technical Project Manager",
+    "🧾 Accurate Accountant",
+    "📊 Data Analyst",
+    "🏗️ Structural Engineer"
+  ],
+  "ISFJ": [
+    "👩‍⚕️ Nurse or GP",
+    "👩‍🏫 Teacher or Child Educator",
+    "🧑‍🤝‍🧑 Social Worker",
+    "🏫 School Principal",
+    "📚 Cultural Affairs Secretary"
+  ],
+  "ESTJ": [
+    "🧑‍💼 Organizational Manager",
+    "📉 Financial Analyst",
+    "⚖️ Judge or Lawyer",
+    "🔍 Quality Control Specialist",
+    "🎖️ Senior Officer"
+  ],
+  "ESFJ": [
+    "👨‍🏫 Academic or Family Counselor",
+    "📚 High School Teacher",
+    "🗣️ Public Relations Manager",
+    "📈 Sales Manager",
+    "🎓 Academic Success Coach"
+  ],
+  "ISTP": [
+    "🛠️ Technical Technician",
+    "⚙️ Mechanical Engineer",
+    "🔍 Criminal Investigator",
+    "🏕️ Adventurer or Repairman",
+    "🚓 Technical Police Officer"
+  ],
+  "ISFP": [
+    "🖌️ Visual Artist",
+    "📸 Professional Photographer",
+    "👗 Fashion or Clothing Designer",
+    "🎼 Musician or Composer",
+    "🏠 Interior Designer"
+  ],
+  "ESTP": [
+    "🧑‍💼 In-person Marketer",
+    "🧑‍🔧 Professional Salesperson",
+    "🚒 Firefighter or First Aider",
+    "🏋️ Sports Coach",
+    "🚀 Field Entrepreneur"
+  ],
+  "ESFP": [
+    "📺 TV Host",
+    "🎭 Actor or Singer",
+    "🎉 Event Planner",
+    "📱 Social Media Manager",
+    "🧳 Travelogue Writer"
+  ]
+}

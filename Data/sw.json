@@ -1,0 +1,258 @@
+{
+  "INTJ": {
+    "strengths": [
+      "✔ Goal-oriented and strategic",
+      "✔ Strong analytical thinking",
+      "✔ Committed to continuous growth",
+      "✔ Independent and self-reliant",
+      "✔ Excellent strategist"
+    ],
+    "weaknesses": [
+      "✖ Can be overly cold and logical",
+      "✖ Perfectionistic tendencies",
+      "✖ Low tolerance for less thoughtful people",
+      "✖ Difficulty expressing emotions",
+      "✖ Tendency to be overly critical"
+    ]
+  },
+  "INTP": {
+    "strengths": [
+      "✔ Creative and analytical mind",
+      "✔ Passion for deep learning",
+      "✔ Independent thinker",
+      "✔ Strong focus on complex problems",
+      "✔ Endless curiosity"
+    ],
+    "weaknesses": [
+      "✖ Easily distracted and mentally scattered",
+      "✖ Difficulty executing ideas",
+      "✖ Emotionally distant",
+      "✖ Gets lost in abstract thinking",
+      "✖ Low motivation for repetitive tasks"
+    ]
+  },
+  "ENTJ": {
+    "strengths": [
+      "✔ Strong leadership and organization skills",
+      "✔ Goal-driven and determined",
+      "✔ Logical and ambitious mindset",
+      "✔ Skilled in management and decision-making",
+      "✔ Highly motivated to succeed"
+    ],
+    "weaknesses": [
+      "✖ Can be domineering",
+      "✖ Impatient with others’ mistakes",
+      "✖ Emotionally distant in relationships",
+      "✖ Lack of focus on emotional details",
+      "✖ Rushes toward results"
+    ]
+  },
+  "ENTP": {
+    "strengths": [
+      "✔ Creative and innovative",
+      "✔ Strong communicator",
+      "✔ Adaptable and flexible",
+      "✔ Curious and enjoys challenges",
+      "✔ Excellent problem-solver"
+    ],
+    "weaknesses": [
+      "✖ Lack of focus",
+      "✖ Disorganized",
+      "✖ Starts projects but struggles to finish them",
+      "✖ Argumentative tendencies",
+      "✖ Gets bored quickly"
+    ]
+  },
+  "INFJ": {
+    "strengths": [
+      "✔ Deep and philosophical insight",
+      "✔ Compassionate and altruistic",
+      "✔ Purpose-driven",
+      "✔ Good listener",
+      "✔ Deep and analytical thinker"
+    ],
+    "weaknesses": [
+      "✖ Keeps distance from others",
+      "✖ Sensitive to criticism",
+      "✖ Gets drained from too much social interaction",
+      "✖ Overly idealistic",
+      "✖ Stays silent when speaking is needed"
+    ]
+  },
+  "INFP": {
+    "strengths": [
+      "✔ Loyal and sincere",
+      "✔ Creative and artistic",
+      "✔ Strong personal values",
+      "✔ Excellent listener",
+      "✔ Self-aware"
+    ],
+    "weaknesses": [
+      "✖ Lost in daydreams",
+      "✖ Sensitive to criticism",
+      "✖ Avoids conflict",
+      "✖ Emotional fluctuations",
+      "✖ Slow decision-making"
+    ]
+  },
+  "ENFJ": {
+    "strengths": [
+      "✔ Caring and supportive",
+      "✔ Inspiring and goal-oriented",
+      "✔ Strong interpersonal skills",
+      "✔ High social awareness",
+      "✔ Encourages growth in others"
+    ],
+    "weaknesses": [
+      "✖ Sensitive to criticism",
+      "✖ Over-sacrifices for others",
+      "✖ Gets disappointed in people",
+      "✖ Highly stress-prone",
+      "✖ Difficulty saying \"no\""
+    ]
+  },
+  "ENFP": {
+    "strengths": [
+      "✔ Energetic and creative",
+      "✔ Great at connecting with others",
+      "✔ Optimistic and motivating",
+      "✔ Innovative and playful",
+      "✔ Seeks deep relationships"
+    ],
+    "weaknesses": [
+      "✖ Easily distracted",
+      "✖ Struggles with follow-through",
+      "✖ Sensitive to stress",
+      "✖ Avoids conflict",
+      "✖ Impatient"
+    ]
+  },
+  "ISTJ": {
+    "strengths": [
+      "✔ Responsible and reliable",
+      "✔ Organized and detail-oriented",
+      "✔ Logical and realistic",
+      "✔ Loyal and consistent",
+      "✔ Practical and goal-focused"
+    ],
+    "weaknesses": [
+      "✖ Inflexible",
+      "✖ Limited emotional expression",
+      "✖ Overly strict",
+      "✖ Resistant to change",
+      "✖ Quick to judge"
+    ]
+  },
+  "ISFJ": {
+    "strengths": [
+      "✔ Kind and supportive",
+      "✔ Loyal and responsible",
+      "✔ Organized and detail-oriented",
+      "✔ Realistic and logical",
+      "✔ Committed and ethical"
+    ],
+    "weaknesses": [
+      "✖ Resistant to change",
+      "✖ Difficulty expressing needs",
+      "✖ High stress sensitivity",
+      "✖ Avoids conflict",
+      "✖ Conservative mindset"
+    ]
+  },
+  "ESTJ": {
+    "strengths": [
+      "✔ Organized and strong leader",
+      "✔ Practical and goal-oriented",
+      "✔ Logical and decisive",
+      "✔ Energetic and determined",
+      "✔ Responsible and reliable"
+    ],
+    "weaknesses": [
+      "✖ Impatient",
+      "✖ Inflexible",
+      "✖ Controlling and dominant",
+      "✖ Sensitive to criticism",
+      "✖ Difficulty expressing emotions"
+    ]
+  },
+  "ESFJ": {
+    "strengths": [
+      "✔ Social and kind",
+      "✔ Strong communicator",
+      "✔ Supportive and responsible",
+      "✔ Committed and goal-oriented",
+      "✔ Positive and energetic"
+    ],
+    "weaknesses": [
+      "✖ Sensitive to criticism",
+      "✖ Overly dependent on others’ opinions",
+      "✖ High stress sensitivity",
+      "✖ Difficulty saying \"no\"",
+      "✖ Avoids conflict"
+    ]
+  },
+  "ISTP": {
+    "strengths": [
+      "✔ Practical and independent",
+      "✔ Analytical and logical",
+      "✔ Calm and adaptable",
+      "✔ Focused in crises",
+      "✔ Strong problem-solver"
+    ],
+    "weaknesses": [
+      "✖ Can seem indifferent or cold",
+      "✖ Easily bored",
+      "✖ Resistant to rules",
+      "✖ Avoids long-term commitments",
+      "✖ Difficulty expressing emotions"
+    ]
+  },
+  "ISFP": {
+    "strengths": [
+      "✔ Artistic and creative",
+      "✔ Kind and compassionate",
+      "✔ Calm and patient",
+      "✔ Nature-loving",
+      "✔ Practical"
+    ],
+    "weaknesses": [
+      "✖ Quiet and reserved",
+      "✖ Avoids conflict",
+      "✖ Sensitive to criticism",
+      "✖ Unstable goals",
+      "✖ Dislikes planning"
+    ]
+  },
+  "ESTP": {
+    "strengths": [
+      "✔ Energetic and enthusiastic",
+      "✔ Realistic and action-oriented",
+      "✔ Quick decision-maker",
+      "✔ Social and outgoing",
+      "✔ Strong problem-solver"
+    ],
+    "weaknesses": [
+      "✖ Inconsistent with commitments",
+      "✖ Impatient and impulsive",
+      "✖ Risk-taking behavior",
+      "✖ Weak long-term planning",
+      "✖ Ignores details"
+    ]
+  },
+  "ESFP": {
+    "strengths": [
+      "✔ Social and friendly",
+      "✔ Energetic and optimistic",
+      "✔ Creative and artistic",
+      "✔ Kind and caring",
+      "✔ Practical"
+    ],
+    "weaknesses": [
+      "✖ Poor attention to detail",
+      "✖ Scattered and inconsistent",
+      "✖ Impatient",
+      "✖ Weak long-term planning",
+      "✖ Avoids conflict"
+    ]
+  }
+}
