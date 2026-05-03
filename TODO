@@ -1,0 +1,7 @@
+# Questions dict with answer and points
+# Results
+
+# Define answers -> Yes: 1, No: 2, Idk: 3, Previous Question: 4
+# Ask Questions Then put the answers point in a list
+# Calculate the answer and Percentage
+# Show the result
