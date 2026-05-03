@@ -1,0 +1,162 @@
+{
+    "1": {
+        "text": "1. If I had time, I would hanged out with my friends.",
+        "dimension": "EI",
+        "direction": "E"
+    },
+    "2": {
+        "text": "2. Instead of relying on intuition, I look more for data and real details.",
+        "dimension": "SN",
+        "direction": "S"
+    },
+    "3": {
+        "text": "3. My decisions are usually based on logic and analysis, not emotion.",
+        "dimension": "TF",
+        "direction": "T"
+    },
+    "4": {
+        "text": "4. I prefer to have a plan for my work in advance, rather than improvising.",
+        "dimension": "JP",
+        "direction": "J"
+    },
+    "5": {
+        "text": "5. Being with others energizes me, not exhausts me.",
+        "dimension": "EI",
+        "direction": "E"
+    },
+    "6": {
+        "text": "6. Most of the time, I prefer tangible facts to hypothetical ideas.",
+        "dimension": "SN",
+        "direction": "S"
+    },
+    "7": {
+        "text": "7. I always try to be fair and reasonable, even if it upsets someone.",
+        "dimension": "TF",
+        "direction": "T"
+    },
+    "8": {
+        "text": "8. I like to know what's going to happen and have everything under control.",
+        "dimension": "JP",
+        "direction": "J"
+    },
+    "9": {
+        "text": "9. Being in a group makes me happier and more lively.",
+        "dimension": "EI",
+        "direction": "E"
+    },
+    "10": {
+        "text": "10. I trust more in things that are observable and measurable.",
+        "dimension": "SN",
+        "direction": "S"
+    },
+    "11": {
+        "text": "11. I prefer to speak the truth, even if it's uncomfortable.",
+        "dimension": "TF",
+        "direction": "T"
+    },
+    "12": {
+        "text": "12. When I have a project, I schedule everything precisely.",
+        "dimension": "JP",
+        "direction": "J"
+    },
+    "13": {
+        "text": "13. After a long day, being around people takes away my tiredness.",
+        "dimension": "EI",
+        "direction": "E"
+    },
+    "14": {
+        "text": "14. Instead of weaving theories, I try to understand everything in practice.",
+        "dimension": "SN",
+        "direction": "S"
+    },
+    "15": {
+        "text": "15. Decision-making should be based on logic, not personal emotions.",
+        "dimension": "TF",
+        "direction": "T"
+    },
+    "16": {
+        "text": "16. Planning is important to me because it gives me a sense of security and order.",
+        "dimension": "JP",
+        "direction": "J"
+    },
+    "17": {
+        "text": "17. I don't get much energy when I'm alone, I recharge more in groups.",
+        "dimension": "EI",
+        "direction": "E"
+    },
+    "18": {
+        "text": "18. I'm looking for things that are proven and have been tried before.",
+        "dimension": "SN",
+        "direction": "S"
+    },
+    "19": {
+        "text": "19. If someone makes a mistake, I first look at the logical reasons for it.",
+        "dimension": "TF",
+        "direction": "T"
+    },
+    "20": {
+        "text": "20. When I'm gonna do something, I plan the route in advance.",
+        "dimension": "JP",
+        "direction": "J"
+    },
+    "21": {
+        "text": "21. Most of the time, it's not me who starts the conversation, but I like to stay in it.",
+        "dimension": "EI",
+        "direction": "E"
+    },
+    "22": {
+        "text": "22. I'm interested in things that I can touch and that are real.",
+        "dimension": "SN",
+        "direction": "S"
+    },
+    "23": {
+        "text": "23. If someone's feelings are contrary to reality, I prefer reality.",
+        "dimension": "TF",
+        "direction": "T"
+    },
+    "24": {
+        "text": "24. Before I start anything, I like to know where it will end.",
+        "dimension": "JP",
+        "direction": "J"
+    },
+    "25": {
+        "text": "25. It's easy for me to connect with new people.",
+        "dimension": "EI",
+        "direction": "E"
+    },
+    "26": {
+        "text": "26. Rather than imagination, I'm more interested in measurable facts.",
+        "dimension": "SN",
+        "direction": "S"
+    },
+    "27": {
+        "text": "27. I prefer justice to empathy when I have to choose.",
+        "dimension": "TF",
+        "direction": "F"
+    },
+    "28": {
+        "text": "28. I don't feel good when something happens without planning.",
+        "dimension": "JP",
+        "direction": "J"
+    },
+    "29": {
+        "text": "29. Being in a group inspires me.",
+        "dimension": "EI",
+        "direction": "E"
+    },
+    "30": {
+        "text": "30. I would rather see the facts than look for hidden things.",
+        "dimension": "SN",
+        "direction": "S"
+    },
+    "31": {
+        "text": "31. When I judge, I want my judgment to be logically correct.",
+        "dimension": "TF",
+        "direction": "T"
+    },
+    "32": {
+        "text": "32. A regular plan for the future gives me a sense of control and confidence.",
+        "dimension": "EI",
+        "direction": "E"
+    }
+}
